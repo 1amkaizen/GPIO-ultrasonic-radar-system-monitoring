@@ -40,3 +40,6 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan buka pull request dan des
 ## Lisensi
 
 Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
+
+## Preview
+  ![Radar](previewmp4)
