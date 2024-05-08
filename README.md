@@ -13,7 +13,7 @@ Proyek ini adalah simulasi sederhana dari sistem monitoring radar menggunakan Ra
 - Kabel Jumper 
 
   ## Diagram
-  ![Radar](diagram.webp)
+  ![Diagram](diagram.webp)
 
 ## Instalasi
 
@@ -31,7 +31,9 @@ Proyek ini adalah simulasi sederhana dari sistem monitoring radar menggunakan Ra
     ```bash
     python radar.py
     ```
-3. Amati tampilan radar yang ditampilkan dan perhatikan objek yang terdeteksi serta informasi jarak dan kecepatannya.
+3. Amati tampilan radar yang ditampilkan dan perhatikan objek yang terdeteksi serta informasi jarak dan sudutnya.
+
+ ![Radar](radar.png)
 
 ## Kontribusi
 
@@ -41,7 +43,7 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan buka pull request dan des
 
 Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
 
-## Preview
+## Preview video
 
 [![Radar Video](https://img.youtube.com/vi/Wii1t0lFXnk/0.jpg)](https://www.youtube.com/watch?v=Wii1t0lFXnk)
 
