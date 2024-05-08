@@ -1,6 +1,6 @@
 # GPIO Ultrasonic Radar System Monitoring
 
-![Radar](radar.png)
+![Radar](https://img.youtube.com/vi/Wii1t0lFXnk/0.jpg)
 
 ## Deskripsi
 Proyek ini adalah simulasi sederhana dari sistem monitoring radar menggunakan Raspberry Pi, GPIO, dan sensor ultrasonic. Proyek ini menggunakan teknologi Python dan matplotlib untuk visualisasi data radar.
@@ -42,4 +42,8 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan buka pull request dan des
 Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
 
 ## Preview
-  ![Radar](previewmp4)
+
+[![Radar Video](https://img.youtube.com/vi/Wii1t0lFXnk/0.jpg)](https://www.youtube.com/watch?v=Wii1t0lFXnk)
+
+
+  
